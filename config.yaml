@@ -3,7 +3,6 @@ baseURL: https://jeffreymhli.github.io
 languageCode: en-us
 title: "John's Blog"
 
-
 # Use Hugo modules to add theme
 module:
   imports:
