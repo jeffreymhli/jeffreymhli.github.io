@@ -1,4 +1,4 @@
-module github.com/jeffreymhli/jeffreymhli.github.io
+module github.com/jeffreymhli/jeffreyli.github.io
 
 go 1.19
 
