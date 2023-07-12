@@ -22,8 +22,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: John's Blog
+  title: Jeffrey Li
   type: website
-  description: Portfolio and personal blog of John Doe.
-  image: images/author/john.png
+  description: Portfolio and personal blog of Jeffrey Li
+  image: images/author/square jeli.png
   url: https://hugo-toha.github.io
