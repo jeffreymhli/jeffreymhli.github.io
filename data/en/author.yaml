@@ -1,9 +1,9 @@
 # some information about you
 name: "Jeffrey Ming Han Li"
-nickname: "JELI"
+nickname: "Jeffrey Li"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/square jeli.png"
+image: "images/author/jeli.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "Jeffreyli2288@outlook.com"
