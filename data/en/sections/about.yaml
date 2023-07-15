@@ -31,7 +31,7 @@ socialLinks:
   url: "Jeffreymhli2288@gmail.com"
 
 - name: Github
-  icon: "fab fa-github"
+  icon: "fa-brands fa-github"
   url: "https://www.github.com/jeffreymhli"
 
 #- name: Stackoverflow
@@ -59,7 +59,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/Jeffrey's Resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
