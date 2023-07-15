@@ -29,6 +29,7 @@ socialLinks:
 - name: Email
   icon: "fas fa-envelope"
   url: "Jeffreymhli2288@gmail.com"
+  rel: "me noopener"
 
 - name: Github
   icon: "fa-brands fa-github"
