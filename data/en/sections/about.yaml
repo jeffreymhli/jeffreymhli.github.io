@@ -32,7 +32,7 @@ socialLinks:
   rel: "me noopener"
 
 - name: Github
-  icon: "fa-brands fa-github"
+  icon: "fab fa-github"
   url: "https://www.github.com/jeffreymhli"
   rel: "me noopener"
 
