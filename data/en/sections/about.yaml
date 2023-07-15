@@ -29,12 +29,10 @@ socialLinks:
 - name: Email
   icon: "fas fa-envelope"
   url: "Jeffreymhli2288@gmail.com"
-  rel: "me noopener"
 
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/jeffreymhli"
-  rel: "me noopener"
 
 #- name: Stackoverflow
   icon: "fab fa-stack-overflow"
