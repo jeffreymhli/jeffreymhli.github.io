@@ -21,7 +21,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate student at the University of Toronto Engineering Sciencce Major.'
+summary: 'I am a passionate student at the University of Toronto Engineering Science Major.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -31,12 +31,12 @@ socialLinks:
   url: "Jeffreymhli2288@gmail.com"
 
 - name: Github
-  icon: "fab fa-github"
+  icon: "fa-brands fa-github"
   url: "https://www.github.com/jeffreymhli"
 
 #- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# icon: "fab fa-stack-overflow"
+ # url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"

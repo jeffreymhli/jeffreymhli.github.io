@@ -4,13 +4,13 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 4
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 degrees:
-- name: BSC in Engineering Sciencce
+- name: BSE in Engineering Sciencce
   icon: fa-microscope
   timeframe: 2023-2028
   institution:
