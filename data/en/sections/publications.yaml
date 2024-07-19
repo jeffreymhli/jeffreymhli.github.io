@@ -23,7 +23,7 @@ buttons:
 publications:
 - title: Denoising CGI Renderings using Deep Learning
   publishedIn:
-    name: CUCAI 2024
+    name: CUCAI 2024/test
     date: 7 Feb 2024
     url: "files/Denoising_Model_for_Monte_Carlo_Path_Tracing.pdf"
   authors:
