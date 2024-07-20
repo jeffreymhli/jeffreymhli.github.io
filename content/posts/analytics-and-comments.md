@@ -9,4 +9,8 @@ menu:
     name: Analytics & Comments
     identifier: analytics-and-comments
     weight: 500
+
+resourceLinks:
+- title: "CUCAI conference Paper"
+  url: "static\files\Denoising_Model_for_Monte_Carlo_Path_Tracing.pdf"
 ---
