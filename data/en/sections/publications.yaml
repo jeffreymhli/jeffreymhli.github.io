@@ -25,7 +25,7 @@ publications:
   publishedIn:
     name: CUCAI 2024
     date: 7 Feb 2024
-    url: "files/Denoising_Model_for_Monte_Carlo_Path_Tracing.pdf"
+    url: "files/Denoising_Model_for_Monte_Carlo_Path_Tracing.pdf" #update
   authors:
   - name: Harry Chen
   - name: Jeffrey Ming Han Li
