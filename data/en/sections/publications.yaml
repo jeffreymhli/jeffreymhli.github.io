@@ -21,7 +21,7 @@ buttons:
 
 # your publications
 publications:
-- title: Denoising CGI Renderings using Deep Learning
+- title: Denoising CGI Renderings using Deep Learning #debugging
   publishedIn:
     name: CUCAI 2024
     date: 7 Feb 2024
