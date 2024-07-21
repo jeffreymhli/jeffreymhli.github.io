@@ -19,7 +19,7 @@ buttons:
 - name: Security
   filter: "security"
 
-# your public- title: Denoising CG
+# # your public- title: Denoising CG
 # - title: Denoising CGI Rendering Using Deep Learning
 #   publishedIn:
 #     name: CUCAI 2024
