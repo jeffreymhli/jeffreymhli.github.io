@@ -19,9 +19,8 @@ buttons:
 - name: Security
   filter: "security"
 
-# your publications
-publications:
-- title: Denoising Monte Carlo Ray Tracing Using Deep Learning
+# your public- title: Denoising CG
+- title: Denoising CGI Rendering Using Deep Learning
   publishedIn:
     name: CUCAI 2024
     date: 7 Feb 2024
