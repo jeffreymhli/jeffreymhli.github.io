@@ -21,7 +21,7 @@ buttons:
 
 # your publications
 publications:
-- title: Denoising Monte Carlo Ray Tracing using Deep Learning
+- title: Denoising Monte Carlo Ray Tracing Using Deep Learning
   publishedIn:
     name: CUCAI 2024
     date: 7 Feb 2024
