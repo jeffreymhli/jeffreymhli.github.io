@@ -20,39 +20,40 @@ buttons:
   filter: "security"
 
 # # your public- title: Denoising CG
-# - title: Denoising CGI Rendering Using Deep Learning
-#   publishedIn:
-#     name: CUCAI 2024
-#     date: 7 Feb 2024
-#     url: "files/Denoising_Model_for_Monte_Carlo_Path_Tracing.pdf"
-#   authors:
-#   - name: Harry Chen
-#   - name: Jeffrey Ming Han Li
-#   paper:
-#     summary: Implemented and compared the performance of various deep learning models for denoising Monte Carlo Ray tracing images. A new model is proposed to improve denoising quality and efficiency.
-#     url: "files/Denoising_Model_for_Monte_Carlo_Path_Tracing.pdf"
-#   categories: ["machinelearning","image-processing"]
-#   tags: ["Machine Learning", "Computer Vision"]
-
-- title: An Sample Paper on Image Processing
+publications: 
+- title: Denoising CGI Rendering Using Deep Learning
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: CUCAI 2024
+    date: 7 Feb 2024
+    url: "files/Denoising_Model_for_Monte_Carlo_Path_Tracing.pdf"
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Harry Chen
+  - name: Jeffrey Ming Han Li
   paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
+    summary: Implemented and compared the performance of various deep learning models for denoising Monte Carlo Ray tracing images. A new model is proposed to improve denoising quality and efficiency.
+    url: "files/Denoising_Model_for_Monte_Carlo_Path_Tracing.pdf"
+  categories: ["machinelearning","image-processing"]
+  tags: ["Machine Learning", "Computer Vision"]
+
+# - title: An Sample Paper on Image Processing
+#   publishedIn:
+#     name: 2020 IEEE Region Symposium (TENSYMP)
+#     date: 7 June 2020
+#     url: https://example.com
+#   authors:
+#   - name: Dr. Madman
+#     url: https://example.com
+#   - name: Dr. Lessmad
+#     url: https://example.com
+#   - name: Dr. Moremad
+#     url: https://example.com
+#   - name: Dr. Goodman
+#     url: https://example.com
+#   paper:
+#     summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
+#     url: https://example.com
+#   categories: ["image-processing"]
+#   tags: ["Image Processing", "Computer Vision"]
 
 #- title: An Example Paper on Security
   #publishedIn:
