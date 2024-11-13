@@ -14,10 +14,8 @@ buttons:
   filter: "all"
 - name: "Machine Learning"
   filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+- name: Quantum Optics
+  filter: "Quantum Optics"
 
 # your publications
 publications:
@@ -41,6 +39,17 @@ publications:
   categories: ["machinelearning","image-processing"]
   tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
 
+
+publications:
+- title: Low-Vibration, Noise-minimized Optical Shutter using DC Brushed Motor
+  authors:
+  - name: Jeffrey Ming Han Li
+  - name: Boris Braverman
+  paper:
+    summary: The poster focuses on the design process and result of the mechanical optical shutter.
+    url: "static/files/Optical Shutter.pdf"
+  categories: ["Quantum Optics"]
+  tags: ["Quantum Optics"]
 # - title: An Sample Paper on Image Processing
 #   publishedIn:
 #     name: 2020 IEEE Region Symposium (TENSYMP)
